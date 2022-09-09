@@ -5,7 +5,7 @@ public class Post {
     public String surname;
     public String passport;
     public String phone;
-    public String subscription;
+    public Boolean subscription;
 
 
 
